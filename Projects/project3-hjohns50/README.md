@@ -1,1 +1,2 @@
-# CPE202-StarterCode-Project3
+#Project 3
+Uses huffman encoding to implement lossless data compression
