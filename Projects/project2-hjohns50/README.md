@@ -1,1 +1,2 @@
-# CPE202-StarterCode-Project2
+#Project 2
+Converts between postfix and prefix notation
